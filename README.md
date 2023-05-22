@@ -24,7 +24,7 @@ Other Operating expense items
 Global Industry Classification Standard (GICS) Sector: The industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL categorized under Industrials.)
 GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of the airline industry.)
 
-## **Project Goals:PP
+## **Project Goals:**
 
 **Task 1:**
 **a.** Identify the question about the data you will answer based on your data analysis, and include this in your slide presentation.
