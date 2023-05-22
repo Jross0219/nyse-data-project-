@@ -2,7 +2,7 @@
 
 This project analyzes real-life data from the New York Stock Exchange. We used a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
 
-## **Why this Project?***
+## **Why this Project?**
 
 This project introduced us to the data analysis process used throughout the Nanodegree program. In this project, we go through the process of calculating summary statistics, drawing an inference from the statistics, calculating business metrics, and using models to forecast future growth prospects for the companies. The goal is to perform an analysis and create visual tools to communicate the results in informative ways.
 
